@@ -1,0 +1,26 @@
+Public Class MyFunctions
+
+Public Function AddMyValues (ByVal Value1 As Double, ByVal Value2 As Double)
+
+Dim Result As Double
+
+Result = Value1 + Value2
+
+Return Result
+
+End Function
+
+End Class
+
+
+private void jButtonlActionPerformed(java.awt.event.ActionEvent evt) {
+
+int a, b, result;
+
+a b = Integer.parseInt()TextField2.getText());
+
+= Integer.parseInt()TextFieldl.getText());
+
+result = a+b;
+
+JTextField3.setText(" "+result);}
